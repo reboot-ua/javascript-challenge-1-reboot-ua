@@ -4,3 +4,5 @@
 |:---         | :---:              |
 |doubleNum    | 10                 |
 |sortByWeight | 30                 |
+
+CI test
